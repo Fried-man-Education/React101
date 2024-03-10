@@ -1,4 +1,4 @@
-![Banner](https://github.com/Fried-man-Education/React101/assets/17306743/4c15c268-7bd4-4d2a-b905-6824fe4b56ef)
+![reactofficial_cover](https://github.com/Fried-man-Education/React101/assets/17306743/07c233a9-b73f-4294-8886-336acd305f4f)
 # React101 - The Complete Guide 2024 (incl. React Router & Redux) - Student Solutions
 
 Welcome to my GitHub repository of solutions for the "React - The Complete Guide 2024 (incl. React Router & Redux)" course. This repository contains my personal solutions to the assignments, challenges, and projects presented throughout the course. Dive into each folder to explore React components, applications, and more that I've built to solidify my understanding of React and its ecosystem.
